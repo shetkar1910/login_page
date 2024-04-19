@@ -3,3 +3,4 @@ streamlit
 datetime
 streamlit_lottie
 requests
+urllib3
